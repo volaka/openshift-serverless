@@ -1,22 +1,27 @@
-# Summary
+# Table of contents
 
-<!-- Rules of SUMMARY.md are here: https://docs.gitbook.com/integrations/github/content-configuration#summary -->
-<!-- All headings MUST be THREE hashmarks (###) -->
-<!-- Indented bullets (4 spaces) will make the first line be a section -->
+* [Introduction](README.md)
 
-### Getting Started
+## Getting Started
 
-* [Pre-work](pre-work/README.md)
+* [Pre-work](getting-started/pre-work.md)
 
-### Some Heading
+## Concepts
 
-* [Some Section](some-section/README.md)
-    * [Some Exercise](some-exercise/README.md)
+* [Getting Started with OpenShift Serverless](concepts/some-section.md)
+* [Installing the OpenShift Serverless Operator](concepts/untitled.md)
 
-### Workshop Resources
+## Workshop Resources
 
-* [Instructor Guide](admin-guide/README.md)
+* [Installing the OpenShift Serverless Operator](workshop-resources/admin-guide.md)
+* [Installing Knative Serving](workshop-resources/installing-knative-serving.md)
+* [Serverless applications using Knative services](workshop-resources/serverless-applications-using-knative-services.md)
 
-### Resources
+## Resources
 
 * [IBM Developer](https://developer.ibm.com)
+
+---
+
+* [Creating and Managing Serverless Applications](https://access.redhat.com/documentation/en-us/openshift_container_platform/4.3/html/serverless_applications/serving-creating-managing-apps)
+
