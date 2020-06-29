@@ -19,9 +19,7 @@
 
 ## Resources
 
-* [IBM Developer](https://developer.ibm.com)
-
----
-
+* [Knative Samples](https://knative.dev/docs/serving/samples/index.html)
 * [Creating and Managing Serverless Applications](https://access.redhat.com/documentation/en-us/openshift_container_platform/4.3/html/serverless_applications/serving-creating-managing-apps)
+* [IBM Developer](https://developer.ibm.com)
 
